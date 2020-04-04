@@ -19,6 +19,7 @@ public class Grupo9 {
         System.out.println("Justo eres un perro cabron");
         System.out.println("Yeray eres un perro, no caigas en la droga del lol");
         System.out.println("Los viernes de la jungla vuelven a ser a todo ojete");
+        System.out.println("zorra");
     }
     
 }
