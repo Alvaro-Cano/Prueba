@@ -9,4 +9,8 @@ public class Usuario {
     private String correo;
     private String contrasenya;
     private LinkedList<String> ForoSub;
+    
+    public void Saludar(){
+        System.out.println("Hola");
+    }
 }
