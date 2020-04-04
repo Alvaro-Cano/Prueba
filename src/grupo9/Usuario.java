@@ -7,6 +7,6 @@ public class Usuario {
     private String apellidos;
     private String Nick;
     private String correo;
-    private String contraseña;
+    private String contrasenya;
     private LinkedList<String> ForoSub;
 }
