@@ -16,6 +16,7 @@ public class Grupo9 {
      */
     public static void main(String[] args) {
         System.out.println("Hola gente descargate el lol justo");
+        System.out.println("Justo eres un perro cabron");
     }
     
 }
