@@ -10,6 +10,7 @@ public class Main {
         user.Saludar();
         System.out.print("Buenas tardes");
         System.out.println("Prueba");
+        System.out.println("Prueba salio bien");
     }
     
 }
