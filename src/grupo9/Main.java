@@ -9,6 +9,7 @@ public class Main {
         Usuario user = new Usuario();
         user.Saludar();
         System.out.print("Buenas tardes");
+        System.out.println("Prueba");
     }
     
 }
