@@ -6,7 +6,9 @@ public class Main {
     public static void main(String[] args) {
         Sistema Foro = new Sistema();
         Foro.Iniciar();
-        System.out.print("Hola");
+        Usuario user = new Usuario();
+        user.Saludar();
+        System.out.print("Buenas tardes");
     }
     
 }
